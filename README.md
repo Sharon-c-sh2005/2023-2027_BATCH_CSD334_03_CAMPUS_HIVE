@@ -55,9 +55,10 @@ discovery — all in one integrated mobile application.
 
 | Name | Role | Section |
 |------|------|---------|
-| Sharon | Developer | Project Zone, Group Chat |
-| [Teammate 1] | Developer | Doubt Hub (AskHub) |
-| [Teammate 2] | Developer | Events, Auth, Admin |
+| Devu | Developer |  Auth |
+| Sharon C Shaji | Developer | Project Zone, Group Chat |
+| Anija T Anna | Developer | Doubt Hub (AskHub) |
+| M Aswathy | Developer | Events |
 
 ---
 
