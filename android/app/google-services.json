@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191389669116",
+    "project_id": "peer-mentorship-app",
+    "storage_bucket": "peer-mentorship-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191389669116:android:eee88f2565d29a7f73a979",
+        "android_client_info": {
+          "package_name": "com.example.peertopeermentorshipappa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191389669116-tmvpouu4aebu6bji8nhlat3ftf5sptgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peertopeermentorshipappa",
+            "certificate_hash": "c4820a9bebb3643ff504d84028cfd7424fc77ce0"
+          }
+        },
+        {
+          "client_id": "191389669116-gjci4o8e4lis469t98fnm1th94a4d8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjfF5YK-wwUeK6FBHRMZswyrcTdD-QSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191389669116-gjci4o8e4lis469t98fnm1th94a4d8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
