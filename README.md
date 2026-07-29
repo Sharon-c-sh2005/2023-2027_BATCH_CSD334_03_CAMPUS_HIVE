@@ -21,7 +21,7 @@ discovery — all in one integrated mobile application.
 
 ## ✨ Features
 
-### 🗂️ Project Zone (My Section)
+### 🗂️ Project Zone 
 - Browse all live student projects with search and filter
 - Create new projects with title, description, tech stack,
   cover image, and categories
